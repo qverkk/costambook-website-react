@@ -1,0 +1,10 @@
+.posts-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.posts {
+    margin-top: 1rem;
+    width: 50%;
+}

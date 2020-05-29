@@ -1,0 +1,12 @@
+.registration, .login {
+    z-index: 100;
+    position: absolute;
+    left: 50%;
+    margin-left: -151px;
+    top: 50%;
+    margin-top: -201px;
+}
+
+.app-name {
+    flex-grow: 1;
+}

@@ -1,0 +1,10 @@
+.post-menu {
+    margin-top: 1rem;
+    width: 50%;
+}
+
+.create-post-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
