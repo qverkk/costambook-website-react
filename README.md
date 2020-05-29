@@ -3,18 +3,23 @@
 # Requirements:
 - costambook-api (clone from my github)
 - Oracle database
--- Version: 18c
--- Username: system
--- Password: Oracle18
--- Port: 32118
--- SID: XE
+
+## Oracle database requirements
+- Version: 18c
+- Username: system
+- Password: Oracle18
+- Port: 32118
+- SID: XE
 
 # Installation
 
 ## Installation of packages
-
-yarn
+```bash
+$ yarn
+```
 
 ## Starting up the project
 
-yarn start
+```bash
+$ yarn start
+```
